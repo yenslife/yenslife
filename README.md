@@ -4,13 +4,14 @@
 
 [![yenslife's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenslife)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenslife&hide_progress=true)
+
 ![](https://komarev.com/ghpvc/?username=yenslife)
 
 
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,sqlite,postgres,mongodb,c,py,flask,fastapi,neovim,vscode,docker,md,git,bash,cloudflare,nginx,github,gmail,linux,discord&theme=light)
-
 
 <details>
     <summary>&#128240 <b>鐵人賽文章</b></summary><br/>
