@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=NCKU+CSIE+student+(ISMP+lab);Keep+Making+Cool+stuff!;%E8%AC%9D%E8%AC%9D%E4%BD%A0%E9%BB%9E%E9%80%B2%E4%BE%86%EF%BC%8C%E4%BD%A0%E6%98%AF%E6%9C%80%E5%B8%A5%E7%9A%84%EF%BC%81)](https://git.io/typing-svg)
 
-[![yenslife's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenslife)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenslife&hide_progress=true)
-
 ![](https://komarev.com/ghpvc/?username=yenslife)
 
 
