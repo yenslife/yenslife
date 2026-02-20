@@ -9,8 +9,17 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,sqlite,postgres,mongodb,c,py,flask,fastapi,neovim,vscode,docker,md,git,bash,cloudflare,nginx,github,gmail,linux,discord&theme=light)
 
+
 <details>
-    <summary>&#128240 <b>鐵人賽文章</b></summary><br/>
+    <summary>📖 <b>My publication</b></summary><br/>
+  
+<!-- BLOG-POST-LIST:START -->
+  - [零基礎玩轉 LLM 應用全攻略：Python × No-Code 實作 AI 開發超簡單（iThome鐵人賽系列書）](https://www.tenlong.com.tw/products/9786264144056)
+<!-- BLOG-POST-LIST:END -->
+</details>
+
+<details>
+    <summary>&#128240 <b>iThome Ironman Challenge</b></summary><br/>
   
 <!-- BLOG-POST-LIST:START -->
   - [🏆 Python 新手的 AI 之旅：從零開始打造屬於你的 AI / LLM 應用](https://ithelp.ithome.com.tw/users/20168885/ironman/7699)
